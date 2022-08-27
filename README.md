@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ##
 
-<div>
+<div style="display: flex">
 <a href="https:github.com/realrootboy">
-<img  src="https://github-readme-stats.vercel.app/api?username=realrootboy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrootboy&layout=default&langs_count=10&theme=chartreuse-dark"/>
+<img style="height: 250px" src="https://github-readme-stats.vercel.app/api?username=realrootboy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img style="height: 250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrootboy&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
 ##
