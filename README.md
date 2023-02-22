@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div style="display: flex">
 <a href="https:github.com/realrootboy">
-<img style="height: 50px" src="https://github-readme-stats.vercel.app/api?username=realrootboy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img style="height: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrootboy&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+<img style="height: 100px" src="https://github-readme-stats.vercel.app/api?username=realrootboy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img style="height:100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrootboy&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
 ##
